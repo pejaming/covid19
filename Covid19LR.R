@@ -10,6 +10,8 @@ head(data)  # 展示前6行
 
 dim(data)
 
+
+
 colnames(data)
 str(data)
 table(data$地区)
